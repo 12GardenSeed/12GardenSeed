@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning CG
 - 💞️ I’m looking to collaborate on Rust Open Source Works
 - 📫 How to reach me 
-- QQ:1544221837
 - mail: gardenseed01@gmail.com
 
 <!---
